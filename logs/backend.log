@@ -1,0 +1,14 @@
+INFO:     Will watch for changes in these directories: ['/Users/malith_bandara/Desktop/SRcode_Final_Assignment/backend']
+INFO:     Uvicorn running on http://0.0.0.0:8004 (Press CTRL+C to quit)
+INFO:     Started reloader process [64270] using WatchFiles
+INFO:     Started server process [64280]
+INFO:     Waiting for application startup.
+2026-04-08 20:41:06,535  INFO  [Agent4] Agent 4 - Architecture-Aware Deployment Packager v3 starting on port 8004
+INFO:     Application startup complete.
+2026-04-08 20:41:06,539  WARNING  [Agent4] RabbitMQ not reachable at localhost:5672. Listener disabled. Use POST /package directly.
+INFO:     127.0.0.1:60492 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60543 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60547 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60564 - "POST /package HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60567 - "GET /stream/085d529a HTTP/1.1" 200 OK
+2026-04-08 20:43:14,394  INFO  [085d529a] Done: BlogApp_generated_20260408.zip (20 files)

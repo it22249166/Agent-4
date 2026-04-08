@@ -1,0 +1,17 @@
+
+> agent4-frontend@2.0.0 dev
+> next dev -p 3001
+
+  ▲ Next.js 14.2.3
+  - Local:        http://localhost:3001
+
+ ✓ Starting...
+ ✓ Ready in 2.4s
+ ✓ Compiled / in 408ms (268 modules)
+ GET /_next/static/webpack/85f623badb5655c6.webpack.hot-update.json 404 in 497ms
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET / 200 in 466ms
+ GET / 200 in 11ms
+ GET / 200 in 94ms
+(node:64306) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
